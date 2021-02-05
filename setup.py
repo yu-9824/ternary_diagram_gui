@@ -16,8 +16,8 @@ sys.setrecursionlimit(10 ** 9)
 
 VERSION = '0.1.0'
 VERSION_PYTHON = '{0}.{1}'.format(sys.version_info.major, sys.version_info.minor)
-APP_NAME = 'ternary_diagram'
-DESCRIPTION = 'Making ternary diagram.'
+APP_NAME = 'ternary_diagram_gui'
+DESCRIPTION = 'Making ternary diagram on GUI interface.'
 AUTHOR = 'yu-9824'
 ID = 'yu-9824'
 EMAIL = '{0}@{1}'.format('yu.9824', 'gmail.com')
