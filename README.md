@@ -15,3 +15,9 @@ python3 setup.py py2app -A
 
 ## How to use
 Now making.
+
+![start menu](https://github.com/yu-9824/ternary_diagram_gui/blob/c74b9caa36a64894c9726ae95e009198e5b76ecb/example/img/start_menu.png)
+
+![main menu](https://github.com/yu-9824/ternary_diagram_gui/blob/c74b9caa36a64894c9726ae95e009198e5b76ecb/example/img/main_menu.png)
+
+![check figure menu](https://github.com/yu-9824/ternary_diagram_gui/blob/c74b9caa36a64894c9726ae95e009198e5b76ecb/example/img/check_figure_menu.png)
